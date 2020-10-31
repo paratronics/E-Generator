@@ -1,2 +1,2 @@
-# Password-Validator
-A program that validates the complexity of a proposed password by ensuring it meets stated rules
+# Email Generator
+Email generator is an application that generates custom emails for a company's new employees
